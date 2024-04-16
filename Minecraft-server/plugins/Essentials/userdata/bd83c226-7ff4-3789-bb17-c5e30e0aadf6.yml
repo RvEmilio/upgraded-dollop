@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713214650829
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713118891688
+  login: 1713206273991
+money: '0'
+last-account-name: MrRattlebone246
+lastlocation:
+  world: 5e0a01b5-9847-4c37-970d-471f6ebab764
+  world-name: world
+  x: -3.34814899679665
+  y: 165.10000000149012
+  z: -780.0574252509055
+  yaw: -92.57041931152344
+  pitch: 30.882537841796875
+logoutlocation:
+  world: 5e0a01b5-9847-4c37-970d-471f6ebab764
+  world-name: world
+  x: 2.661672433202512
+  y: 156.0
+  z: -777.9231613296008
+  yaw: 9.766265869140625
+  pitch: 23.524356842041016

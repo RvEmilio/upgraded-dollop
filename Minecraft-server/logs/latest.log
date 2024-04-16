@@ -1,0 +1,1482 @@
+[18:36:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:36:57] [ServerMain/WARN]: Missing metadata in pack file/sirlogin-e1220.zip
+[18:36:57] [ServerMain/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/hovering-inferno-1-0.zip, ignoring
+[18:36:57] [ServerMain/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/hovering-inferno-1-0.zip, ignoring
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't load tag dnl:nonsolid as it is missing following references: minecraft:grass (from file/dungeon-now-loading-18.2-v1.19.4.zip)
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't load tag herobrine:air as it is missing following references: minecraft:grass (from file/herobrine-boss-1-19-v-1-5-2.zip)
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't load tag base:cavenonair as it is missing following references: minecraft:grass (from file/expanded-end-e2170.zip)
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't load tag herobrine:other as it is missing following references: minecraft:grass (from file/herobrine-boss-1-19-v-1-5-2.zip)
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't load tag base:cavespace as it is missing following references: #base:cavenonair (from file/expanded-end-e2170.zip)
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:bamboo - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:bamboo_jungle"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:bamboo_jungle_hills"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:swamp - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:swamp"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:swamp_hills"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:mushroom - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:mushroom_field_shore"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:mushroom_fields"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:dark_oak - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:dark_forest"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:dark_forest_hills"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:desert - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:desert"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:desert_hills"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:desert_lakes"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:forest - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:flower_forest"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:forest"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:wooded_hills"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:birch - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:birch_forest"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:birch_forest_hills"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:tall_birch_forest"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:tall_birch_hills"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:savanna - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:savanna"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:savanna_plateau"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:shattered_savanna_plateau"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:shattered_savanna_plateau"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:taiga - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:giant_tree_taiga"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:giant_tree_taiga_hills"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:taiga"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:taiga_hills"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:taiga_mountains"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:giant_spruce_taiga"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:giant_spruce_taiga_hills"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:plain - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:sunflower_plains"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:plains"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:jungle - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:modified_jungle"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:modified_jungle_edge"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:jungle"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:jungle_edge"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:jungle_hills"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:snow - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:frozen_river"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_beach"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_mountains"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_taiga"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_taiga_hills"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_taiga_mountains"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_tundra"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:ice_spikes"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:snow_taiga - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_taiga"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_taiga_hills"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:snowy_taiga_mountains"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:badlands - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:eroded_badlands"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:badlands"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:badlands_plateau"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:modified_badlands_plateau"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:modified_wooded_badlands_plateau"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:wooded_badlands_plateau"}}]}
+[18:36:59] [Worker-Main-1/ERROR]: Couldn't parse element predicates:base:mountain - Not a json array: {"condition":"minecraft:alternative","terms":[{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:wooded_mountains"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:modified_gravelly_mountains"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:mountain_edge"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:mountains"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:gravelly_mountains"}},{"condition":"minecraft:location_check","predicate":{"biome":"minecraft:stone_shore"}}]}
+[18:36:59] [Worker-Main-1/WARN]: Invalid path in datapack: end:functions/forest/floor - Copy.mcfunction, ignoring
+[18:37:00] [ServerMain/ERROR]: Parsing error loading recipe starmute:upgrade_elytra
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: minecraft:smithing
+	at net.minecraft.Util.getOrThrow(Util.java:863) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:193) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:70) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.a(RecipeManager.java:42) ~[?:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.lambda$reload$1(SimplePreparableReloadListener.java:19) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$new$3(SimpleReloadInstance.java:90) ~[?:?]
+	at net.minecraft.Util.blockUntilDone(Util.java:811) ~[?:?]
+	at net.minecraft.Util.blockUntilDone(Util.java:800) ~[?:?]
+	at net.minecraft.server.Main.main(Main.java:267) ~[paper-1.20.4.jar:git-Paper-484]
+	at org.bukkit.craftbukkit.Main.main(Main.java:326) ~[paper-1.20.4.jar:git-Paper-484]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:37:00] [ServerMain/INFO]: Loaded 1175 recipes
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/construction_site_small_90
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/construction_site_big_270
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/construction_site_small
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/patrol_tower_big
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 53: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 53: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_broken_90
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/flag_post
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 55: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 55: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/wheat_field_big_90
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/construction_site_big_180
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_double_270
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/patrol_tower_small
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/construction_site_big_90
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/adjust_to_ground
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 23: Unknown block type 'minecraft:grass' at position 57: ... ~ ~-32 ~ <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 23: Unknown block type 'minecraft:grass' at position 57: ... ~ ~-32 ~ <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/construction_site_big
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_single
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_double
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_single_270
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_double_180
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/underground_storage_small
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 59: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 59: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/illager_tower_stairs
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 38: Unknown block type 'minecraft:grass' at position 121: ...ock ~ ~ ~ <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 38: Unknown block type 'minecraft:grass' at position 121: ...ock ~ ~ ~ <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_double_90
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 16: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_single_180
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 53: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 53: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_broken
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/illager_fortress_stairs
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 29: Unknown block type 'minecraft:grass' at position 124: ...ock ~ ~ ~ <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 29: Unknown block type 'minecraft:grass' at position 124: ...ock ~ ~ ~ <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_single_90
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 53: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 53: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/wheat_field_small
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/wheat_field_big
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 54: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_broken_180
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function end:mobs/shulker
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 44: ...:0s}] run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Incorrect argument for command at position 44: ...:0s}] run <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Failed to load function ercerus:illager_fortress/surroundings/tower_broken_270
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 15: Unknown block type 'minecraft:grass' at position 52: ...e replace <--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:84) ~[paper-1.20.4.jar:git-Paper-484]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:91) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[18:37:00] [ServerMain/ERROR]: Parsing error loading custom advancement dnl:util/chests/player_interacted_chest: Not a json array: {"block":{"tag":"dnl:chests","nbt":"{Lock:\"Spawner Chest§r\"}"}} missed input: {"spawner_chest":{"trigger":"minecraft:item_used_on_block","conditions":{"location":{"block":{"tag":"dnl:chests","nbt":"{Lock:\"Spawner Chest§r\"}"}}}}}; Advancement criteria cannot be empty
+[18:37:00] [ServerMain/INFO]: Loaded 1451 advancements
+[18:37:00] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: dnl:nonsolid, quirks:air
+[18:37:01] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:37:01] [Server thread/INFO]: Loading properties
+[18:37:01] [Server thread/INFO]: This server is running Paper version git-Paper-484 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 4445d23)
+[18:37:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:37:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:37:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[18:37:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[18:37:03] [Server thread/INFO]: Default game type: SURVIVAL
+[18:37:03] [Server thread/INFO]: Generating keypair
+[18:37:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:37:03] [Server thread/INFO]: Using epoll channel type
+[18:37:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:37:03] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[18:37:04] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
+[18:37:05] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.0+6678-55745ad
+[18:37:06] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6e948ddf]
+[18:37:06] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[18:37:06] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.0.8
+[18:37:06] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.19.0
+[18:37:06] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (415 ms).
+[18:37:06] [Server thread/INFO]: [Shopkeepers] Loading config.
+[18:37:06] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[18:37:06] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[18:37:06] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[18:37:06] [Server thread/INFO]: [HolographicDisplays] Loading server plugin HolographicDisplays v3.0.4
+[18:37:06] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[18:37:06] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.0.1
+[18:37:06] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.18
+[18:37:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:37:07] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[18:37:07] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0+6678-55745ad
+[18:37:07] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:37:07] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:37:07] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[18:37:08] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.8
+[18:37:09] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
+[18:37:09] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:37:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:37:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:37:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:37:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:37:09] [Server thread/INFO]: Preparing level "world"
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.0.9
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d7578c9
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:37:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:37:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:37:11] [Server thread/INFO]: Time elapsed: 555 ms
+[18:37:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:37:11] [Server thread/INFO]: Time elapsed: 64 ms
+[18:37:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:37:11] [Server thread/INFO]: Time elapsed: 56 ms
+[18:37:11] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[18:37:11] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[18:37:11] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[18:37:11] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[18:37:12] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[18:37:12] [Server thread/INFO]: [Essentials] Using locale en
+[18:37:12] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[18:37:12] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[18:37:12] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[18:37:12] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.19.0
+[18:37:12] [Server thread/INFO]: [Shopkeepers] Loading the data of 1 shopkeepers ...
+[18:37:12] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[18:37:13] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[18:37:13] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[18:37:13] [Server thread/INFO]: --------------------
+[18:37:13] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[18:37:13] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[18:37:13] [Server thread/INFO]: --------------------
+[18:37:13] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v3.0.4
+[18:37:13] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[18:37:13] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[18:37:13] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[18:37:13] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[18:37:13] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[18:37:13] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[18:37:13] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.0.1
+[18:37:14] [Server thread/INFO]: [ItemEditor] Detected major version 20 and minor version 4
+[18:37:14] [Server thread/INFO]: [ItemEditor] Reloading items.
+[18:37:14] [Server thread/INFO]: [ItemEditor] Loaded 0 items from storage.
+[18:37:14] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.18
+[18:37:14] [Server thread/INFO]: [SuperVanish] Hooked into PaperSpigot for server list ping support
+[18:37:14] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[18:37:14] [Server thread/INFO]: Running delayed init tasks
+[18:37:14] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[18:37:14] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[18:37:14] [Server thread/INFO]: Done (13.340s)! For help, type "help"
+[18:37:14] [Server thread/INFO]: Timings Reset
+[18:37:44] [User Authenticator #0/INFO]: UUID of player SoyEmilio is 5ff7b3fa-ef73-300e-a846-270f27ed74e1
+[18:37:45] [Server thread/INFO]: [ADMIN] SoyEmilio joined the game
+[18:37:45] [Server thread/INFO]: SoyEmilio[/[0:0:0:0:0:0:0:1%0]:39048] logged in with entity id 2168 at ([world_the_end]-4.439337082963779, 62.01722603022726, -4.9726459312842115)
+[18:37:53] [User Authenticator #0/INFO]: UUID of player MrRattlebone246 is bd83c226-7ff4-3789-bb17-c5e30e0aadf6
+[18:37:53] [Server thread/INFO]: [CREADOR] MrRattlebone246 joined the game
+[18:37:53] [Server thread/INFO]: MrRattlebone246[/[0:0:0:0:0:0:0:1%0]:39940] logged in with entity id 2209 at ([world_the_end]-2.1527442803285726, 66.38468389187946, 16.37994874078575)
+[18:38:05] [Async Chat Thread - #1/INFO]: [Not Secure] <SoyEmilio> a
+[18:38:07] [Async Chat Thread - #0/INFO]: [Not Secure] <MrRattlebone246> entonces si era el authtoken xd
+[18:38:16] [Async Chat Thread - #1/INFO]: [Not Secure] <SoyEmilio> sep
+[18:38:18] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:18] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:19] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:19] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:20] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:20] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:22] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:22] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:23] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:23] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:26] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:26] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:26] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:26] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:27] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:27] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:28] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:28] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:33] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:33] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:34] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:34] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:38:36] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:tnt
+[18:38:36] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[18:39:41] [Async Chat Thread - #2/INFO]: [Not Secure] <SoyEmilio> q quieres hacer'
+[18:39:47] [Async Chat Thread - #3/INFO]: [Not Secure] <MrRattlebone246> un puente
+[18:39:55] [Async Chat Thread - #2/INFO]: [Not Secure] <MrRattlebone246> como en el spawn
+[18:40:21] [Async Chat Thread - #3/INFO]: [Not Secure] <MrRattlebone246> emmm
+[18:40:24] [Async Chat Thread - #2/INFO]: [Not Secure] <MrRattlebone246> cual era el comando
+[18:40:28] [Async Chat Thread - #3/INFO]: [Not Secure] <MrRattlebone246> para hacer esas bolas?Xd
+[18:40:28] [Async Chat Thread - #2/INFO]: [Not Secure] <SoyEmilio> de q
+[18:40:42] [Async Chat Thread - #3/INFO]: [Not Secure] <SoyEmilio> es //brush
+[18:40:59] [Server thread/INFO]: MrRattlebone246 issued server command: //brush
+[18:41:03] [Server thread/INFO]: MrRattlebone246 issued server command: /tp SoyEmilio
+[18:41:24] [Async Chat Thread - #3/INFO]: [Not Secure] <MrRattlebone246> que mas?
+[18:41:31] [Async Chat Thread - #3/INFO]: [Not Secure] <SoyEmilio> de q
+[18:41:35] [Async Chat Thread - #2/INFO]: [Not Secure] <MrRattlebone246> del brush
+[18:42:21] [Server thread/INFO]: SoyEmilio issued server command: //brush apply (forma) set (bloque)
+[18:42:24] [Async Chat Thread - #3/INFO]: [Not Secure] <SoyEmilio> es //brush apply (forma) set (bloque)
+[18:42:33] [Async Chat Thread - #2/INFO]: [Not Secure] <MrRattlebone246> gracias uwu
+[18:42:48] [Server thread/INFO]: MrRattlebone246 issued server command: //brush apply sphere set
+[18:44:54] [Server thread/INFO]: MrRattlebone246 issued server command: //brush apply sphere set obsidian,purple_stained_glass,end_stone_bricks,end_stone,white_stained_glass
+[18:44:54] [Async Chat Thread - #4/INFO]: [Not Secure] <SoyEmilio> por estar viendo q se cayo el sv se me quemo mi menestra
+[18:44:57] [Async Chat Thread - #5/INFO]: [Not Secure] <SoyEmilio> pipipi
+[18:45:01] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:45:17] [Server thread/INFO]: MrRattlebone246 issued server command: //brush apply sphere 1 set obsidian,purple_stained_glass,end_stone_bricks,end_stone,white_stained_glass
+[18:45:24] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:45:24] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:45:26] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:45:45] [Server thread/INFO]: MrRattlebone246 issued server command: //brush apply sphere 1 set obsidian,end_stone_bricks,end_stone
+[18:45:49] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:45:49] [Server thread/INFO]: SoyEmilio issued server command: /mask end_stone
+[18:45:59] [Server thread/INFO]: MrRattlebone246 issued server command: //brush apply sphere 2 set obsidian,end_stone_bricks,end_stone
+[18:46:05] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:46:14] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:46:19] [Server thread/INFO]: MrRattlebone246 issued server command: //brush apply sphere 1 set obsidian,end_stone_bricks,end_stone
+[18:46:24] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:46:55] [Server thread/INFO]: SoyEmilio issued server command: /brush apply sphere set end_stone,end_stone_bricks
+[18:47:20] [Server thread/INFO]: SoyEmilio issued server command: /brush apply sphere set end_stone,end_stone_bricks,purple_stained_glass,white_stained_glass
+[18:47:26] [Server thread/INFO]: SoyEmilio issued server command: //undo
+[18:47:31] [Server thread/INFO]: SoyEmilio issued server command: /mask end_stone
+[18:47:41] [Async Chat Thread - #6/INFO]: [Not Secure] <MrRattlebone246> ME ENCANTA
+[18:47:46] [Async Chat Thread - #7/INFO]: [Not Secure] <MrRattlebone246> te la chupo por eso emilio
+[18:47:56] [Async Chat Thread - #7/INFO]: [Not Secure] <SoyEmilio> pones /mask y un material
+[18:48:04] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:48:05] [Async Chat Thread - #6/INFO]: [Not Secure] <SoyEmilio> para que solo pinte en esa ares
+[18:48:05] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:48:12] [Async Chat Thread - #7/INFO]: [Not Secure] <SoyEmilio> y usas el brush
+[18:48:13] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:48:21] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:48:22] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:48:29] [Async Chat Thread - #6/INFO]: [Not Secure] <SoyEmilio> ahi mas cambiado la variedad?
+[18:48:31] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:49:29] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:52:00] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:52:01] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:52:02] [Server thread/INFO]: SoyEmilio issued server command: /unbind
+[18:52:02] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:52:06] [Server thread/INFO]: SoyEmilio issued server command: //unbind
+[18:52:09] [Server thread/INFO]: SoyEmilio issued server command: //unbind
+[18:52:20] [Server thread/INFO]: SoyEmilio issued server command: /brush unbind
+[18:52:55] [Server thread/INFO]: MrRattlebone246 issued server command: //brush apply sphere 1 set glowstone
+[18:53:03] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[18:53:40] [Async Chat Thread - #8/INFO]: [Not Secure] <SoyEmilio> dragon hp
+[18:53:45] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> por?XD
+[18:53:47] [Server thread/INFO]: MrRattlebone246 issued server command: /tp SoyEmilio
+[18:53:52] [Async Chat Thread - #9/INFO]: [Not Secure] <SoyEmilio> daña la decoracion
+[18:53:53] [Async Chat Thread - #8/INFO]: [Not Secure] <SoyEmilio> xd
+[18:53:56] [Async Chat Thread - #8/INFO]: [Not Secure] <MrRattlebone246> xDDDDDDDDDD
+[18:54:08] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> emilio
+[18:54:11] [Async Chat Thread - #8/INFO]: [Not Secure] <MrRattlebone246> lo que hiciste
+[18:54:11] [Async Chat Thread - #9/INFO]: [Not Secure] <SoyEmilio> dim
+[18:54:14] [Async Chat Thread - #8/INFO]: [Not Secure] <MrRattlebone246> aqui alrededor
+[18:54:22] [Async Chat Thread - #9/INFO]: [Not Secure] <SoyEmilio> qu pas
+[18:54:28] [Async Chat Thread - #8/INFO]: [Not Secure] <MrRattlebone246> hayq ue hacelro todo el mundo
+[18:54:32] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> la pregunta es
+[18:54:35] [Async Chat Thread - #8/INFO]: [Not Secure] <SoyEmilio> del end'
+[18:54:36] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> lo hacemos con crystal
+[18:54:39] [Async Chat Thread - #8/INFO]: [Not Secure] <MrRattlebone246> o con obsidiana xd
+[18:54:43] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> ajam
+[18:54:50] [Async Chat Thread - #8/INFO]: [Not Secure] <SoyEmilio> como creas mejor
+[18:55:22] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> mmm
+[18:55:24] [Async Chat Thread - #8/INFO]: [Not Secure] <MrRattlebone246> tngo una diea
+[18:55:34] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> vez todo este circulo?
+[18:55:40] [Async Chat Thread - #8/INFO]: [Not Secure] <MrRattlebone246> osea lo que hciiste
+[18:55:51] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> mejor te lo hago en un paint xd
+[18:55:54] [Async Chat Thread - #8/INFO]: [Not Secure] <SoyEmilio> xd
+[18:55:56] [Async Chat Thread - #9/INFO]: [Not Secure] <MrRattlebone246> esperame
+[18:58:48] [Server thread/INFO]: SoyEmilio issued server command: /mask
+[18:58:55] [Server thread/INFO]: SoyEmilio issued server command: /mask #
+[18:58:58] [Server thread/INFO]: SoyEmilio issued server command: /mask #solid
+[18:59:44] [Async Chat Thread - #10/INFO]: [Not Secure] <SoyEmilio> dame los materiales del primer circulo
+[18:59:47] [Async Chat Thread - #11/INFO]: [Not Secure] <SoyEmilio> y del segundo
+[19:00:04] [Async Chat Thread - #11/INFO]: [Not Secure] <MrRattlebone246> los del primer circulo
+[19:00:09] [Async Chat Thread - #10/INFO]: [Not Secure] <MrRattlebone246> lo mismo que hiciete
+[19:00:12] [Async Chat Thread - #11/INFO]: [Not Secure] <SoyEmilio> ok
+[19:00:20] [Async Chat Thread - #10/INFO]: [Not Secure] <MrRattlebone246> mira
+[19:00:23] [Async Chat Thread - #11/INFO]: [Not Secure] <MrRattlebone246> aqui esta
+[19:00:24] [Server thread/INFO]: SoyEmilio issued server command: /brush apply sphere set end_stone,end_stone_bricks,purple_stained_glass,white_stained_glass
+[19:00:58] [Server thread/INFO]: SoyEmilio issued server command: /mask #solid
+[19:01:31] [Server thread/INFO]: SoyEmilio issued server command: /size 3
+[19:02:10] [Server thread/INFO]: SoyEmilio issued server command: /brush apply sphere set end_stone,end_stone_bricks,obsidian
+[19:02:12] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode survival
+[19:02:15] [Server thread/INFO]: MrRattlebone246 issued server command: /tick freeze
+[19:02:15] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game is frozen]
+[19:02:17] [Server thread/INFO]: SoyEmilio issued server command: //undo
+[19:02:18] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:02:19] [Server thread/INFO]: SoyEmilio issued server command: /mask #solid
+[19:03:21] [Async Chat Thread - #12/INFO]: [Not Secure] <SoyEmilio> as
+[19:03:22] [Async Chat Thread - #13/INFO]: [Not Secure] <MrRattlebone246> tps
+[19:03:23] [Server thread/INFO]: MrRattlebone246 issued server command: /tps
+[19:03:24] [Async Chat Thread - #12/INFO]: [Not Secure] <MrRattlebone246> xd
+[19:03:25] [Server thread/INFO]: SoyEmilio issued server command: /tps
+[19:03:38] [Async Chat Thread - #12/INFO]: [Not Secure] <MrRattlebone246> me gusta me gista
+[19:03:47] [Async Chat Thread - #13/INFO]: [Not Secure] <MrRattlebone246> el siguiente circulo como lo hciiste primero
+[19:03:50] [Async Chat Thread - #12/INFO]: [Not Secure] <MrRattlebone246> y asi susecivamente
+[19:03:57] [Server thread/INFO]: SoyEmilio issued server command: /mask end_stone_bricks,end_stone
+[19:04:06] [Server thread/INFO]: SoyEmilio issued server command: /size 5
+[19:04:33] [Server thread/INFO]: SoyEmilio issued server command: /mask end_stone_bricks,end_stone
+[19:04:58] [Server thread/INFO]: SoyEmilio issued server command: //undo
+[19:04:59] [Server thread/INFO]: SoyEmilio issued server command: //undo
+[19:05:01] [Server thread/INFO]: SoyEmilio issued server command: //undo 20
+[19:05:02] [Server thread/INFO]: SoyEmilio issued server command: //undo 20
+[19:06:29] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[19:06:48] [Async Chat Thread - #14/INFO]: [Not Secure] <SoyEmilio> ya te moriste'
+[19:06:49] [Async Chat Thread - #15/INFO]: [Not Secure] <SoyEmilio> ?
+[19:07:01] [Server thread/INFO]: SoyEmilio issued server command: /up 100000
+[19:07:12] [Server thread/INFO]: SoyEmilio issued server command: /up 100000
+[19:07:21] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[19:07:35] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[19:07:37] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[19:07:42] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[19:07:59] [Async Chat Thread - #16/INFO]: [Not Secure] <MrRattlebone246> ay
+[19:08:07] [Async Chat Thread - #17/INFO]: [Not Secure] <MrRattlebone246> que paso
+[19:08:13] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[19:08:15] [Async Chat Thread - #16/INFO]: [Not Secure] <SoyEmilio> mira
+[19:08:23] [Async Chat Thread - #17/INFO]: [Not Secure] <MrRattlebone246> dios mio
+[19:08:25] [Async Chat Thread - #16/INFO]: [Not Secure] <MrRattlebone246> me encanta
+[19:08:28] [Async Chat Thread - #17/INFO]: [Not Secure] <MrRattlebone246> nose si a ti te gusta
+[19:08:32] [Async Chat Thread - #16/INFO]: [Not Secure] <MrRattlebone246> que te parece?
+[19:08:33] [Async Chat Thread - #17/INFO]: [Not Secure] <SoyEmilio> sigo mas alla?
+[19:08:41] [Async Chat Thread - #16/INFO]: [Not Secure] <SoyEmilio> me gusta la combinacion
+[19:08:42] [Async Chat Thread - #17/INFO]: [Not Secure] <MrRattlebone246> si
+[19:08:45] [Async Chat Thread - #16/INFO]: [Not Secure] <SoyEmilio> ok
+[19:08:46] [Async Chat Thread - #16/INFO]: [Not Secure] <MrRattlebone246> todo vamosa llenarlo
+[19:09:06] [Server thread/INFO]: MrRattlebone246 issued server command: /tps
+[19:11:47] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[19:12:00] [Async Chat Thread - #18/INFO]: [Not Secure] <SoyEmilio> ya
+[19:13:36] [Async Chat Thread - #20/INFO]: [Not Secure] <MrRattlebone246> m encanta
+[19:13:45] [Async Chat Thread - #21/INFO]: [Not Secure] <MrRattlebone246> a emilio
+[19:13:48] [Async Chat Thread - #20/INFO]: [Not Secure] <MrRattlebone246> se me ocurriow
+[19:13:49] [Async Chat Thread - #21/INFO]: [Not Secure] <SoyEmilio> di
+[19:13:54] [Async Chat Thread - #20/INFO]: [Not Secure] <MrRattlebone246> sabes como generar aliento de dragon?
+[19:13:57] [Async Chat Thread - #21/INFO]: [Not Secure] <SoyEmilio> que haya 5 dragons
+[19:13:58] [Async Chat Thread - #20/INFO]: [Not Secure] <SoyEmilio> a
+[19:14:04] [Async Chat Thread - #21/INFO]: [Not Secure] <MrRattlebone246> xD
+[19:14:18] [Server thread/INFO]: SoyEmilio issued server command: /brush unbind
+[19:14:19] [Server thread/INFO]: SoyEmilio issued server command: /brush unbind
+[19:14:57] [Server thread/INFO]: SoyEmilio issued server command: /summon minecraft:dragon_fireball
+[19:14:57] [Server thread/INFO]: [[ADMIN] SoyEmilio: Summoned new Dragon Fireball]
+[19:15:10] [Server thread/INFO]: MrRattlebone246 issued server command: /tick unfreeze
+[19:15:10] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game runs normally]
+[19:15:16] [Async Chat Thread - #22/INFO]: [Not Secure] <MrRattlebone246> en si
+[19:15:18] [Async Chat Thread - #23/INFO]: [Not Secure] <MrRattlebone246> lo que quiero
+[19:15:21] [Async Chat Thread - #23/INFO]: [Not Secure] <MrRattlebone246> es ese efecto
+[19:15:23] [Async Chat Thread - #22/INFO]: [Not Secure] <MrRattlebone246> en si la bola no
+[19:15:26] [Async Chat Thread - #22/INFO]: [Not Secure] <MrRattlebone246> sino cuando se rompe
+[19:15:29] [Async Chat Thread - #23/INFO]: [Not Secure] <SoyEmilio> o
+[19:15:35] [Async Chat Thread - #22/INFO]: [Not Secure] <MrRattlebone246> y ponerlo abajo
+[19:17:12] [Async Chat Thread - #24/INFO]: [Not Secure] <SoyEmilio> ahi si no se
+[19:17:14] [Async Chat Thread - #25/INFO]: [Not Secure] <SoyEmilio> xd
+[19:17:36] [Async Chat Thread - #24/INFO]: [Not Secure] <MrRattlebone246> es que quiero mantenr ese efecto
+[19:17:39] [Async Chat Thread - #25/INFO]: [Not Secure] <MrRattlebone246> aqui abajo
+[19:18:32] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:fireball
+[19:18:32] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Fireball]
+[19:19:07] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[19:19:31] [Async Chat Thread - #26/INFO]: [Not Secure] <SoyEmilio> q ahce
+[19:19:39] [Async Chat Thread - #27/INFO]: [Not Secure] <SoyEmilio> una esfera?
+[19:19:50] [Async Chat Thread - #26/INFO]: [Not Secure] <MrRattlebone246> mmm nose la verdad
+[19:19:56] [Async Chat Thread - #26/INFO]: [Not Secure] <MrRattlebone246> es una...
+[19:19:58] [Async Chat Thread - #26/INFO]: [Not Secure] <MrRattlebone246> como es eso
+[19:20:01] [Async Chat Thread - #27/INFO]: [Not Secure] <MrRattlebone246> emmm
+[19:20:05] [Async Chat Thread - #26/INFO]: [Not Secure] <MrRattlebone246> lo que cuega en la boca
+[19:20:10] [Async Chat Thread - #26/INFO]: [Not Secure] <SoyEmilio> a
+[19:20:10] [Async Chat Thread - #27/INFO]: [Not Secure] <MrRattlebone246> ya entre la garganta
+[19:20:24] [Async Chat Thread - #26/INFO]: [Not Secure] <MrRattlebone246> de la pelcula de never craker xd
+[19:20:28] [Async Chat Thread - #27/INFO]: [Not Secure] <MrRattlebone246> como se llamaba xd
+[19:20:33] [Async Chat Thread - #26/INFO]: [Not Secure] <SoyEmilio> y pq harias algo asi?
+[19:20:37] [Async Chat Thread - #27/INFO]: [Not Secure] <MrRattlebone246> nose xd
+[19:20:38] [Async Chat Thread - #26/INFO]: [Not Secure] <SoyEmilio> no era esto un crater?
+[19:20:40] [Async Chat Thread - #27/INFO]: [Not Secure] <MrRattlebone246> estoy enfermo xd
+[19:20:58] [Async Chat Thread - #27/INFO]: [Not Secure] <MrRattlebone246> es que queda muy vacio esa parte
+[19:22:15] [Server thread/INFO]: SoyEmilio issued server command: /give SoyEmilio minecraft:zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:0,Duration:2147483647}]}}
+[19:22:26] [Server thread/INFO]: SoyEmilio issued server command: /give SoyEmilio minecraft:zombie_spawn_egg 1 0 {EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:0,Duration:2147483647}]}}
+[19:23:19] [Async Chat Thread - #28/INFO]: [Not Secure] <SoyEmilio> y eso moraod
+[19:23:20] [Async Chat Thread - #29/INFO]: [Not Secure] <SoyEmilio> xd
+[19:23:28] [Server thread/INFO]: MrRattlebone246 issued server command: /tp s
+[19:23:31] [Async Chat Thread - #28/INFO]: [Not Secure] <SoyEmilio> mira
+[19:23:33] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:23:43] [Async Chat Thread - #29/INFO]: [Not Secure] <MrRattlebone246> qie?Xd
+[19:23:49] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:23:52] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode survival
+[19:24:01] [Server thread/INFO]: Named entity EntityZombie['ZOMBIENGAYS'/25078, uuid='adf1ee2c-047e-4751-bde2-a78bd12599bb', l='ServerLevel[world_the_end]', x=44.48, y=58.00, z=-43.99, cpos=[2, -3], tl=1861, v=true] died: ZOMBIENGAYS was slain by [CREADOR] MrRattlebone246
+[19:24:04] [Async Chat Thread - #29/INFO]: [Not Secure] <MrRattlebone246> xd
+[19:24:10] [Async Chat Thread - #28/INFO]: [Not Secure] <MrRattlebone246> uff
+[19:24:12] [Async Chat Thread - #29/INFO]: [Not Secure] <MrRattlebone246> casi muero xd
+[19:24:16] [Async Chat Thread - #28/INFO]: [Not Secure] <MrRattlebone246> bromita xd
+[19:24:27] [Server thread/INFO]: SoyEmilio issued server command: /give SoyEmilio minecraft:zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:24:38] [Server thread/INFO]: SoyEmilio issued server command: /give SoyEmilio minecraft:zombie_spawn_egg 1 {EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:24:52] [Server thread/INFO]: Named entity EntityZombie['ZOMBIENGAYS'/26745, uuid='c709cc6f-b036-4662-9238-39ed87d898bf', l='ServerLevel[world_the_end]', x=37.72, y=61.00, z=-30.16, cpos=[2, -2], tl=233, v=true] died: ZOMBIENGAYS was slain by [ADMIN] SoyEmilio
+[19:24:58] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:25:05] [Async Chat Thread - #29/INFO]: [Not Secure] <MrRattlebone246> maldito dragon
+[19:25:18] [Server thread/INFO]: MrRattlebone246 issued server command: /tick freeze
+[19:25:18] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game is frozen]
+[19:25:39] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246
+[19:25:43] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246
+[19:25:53] [Async Chat Thread - #28/INFO]: [Not Secure] <MrRattlebone246> ?Xd
+[19:25:56] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:26:05] [Async Chat Thread - #29/INFO]: [Not Secure] <MrRattlebone246> que hace una espada flotando?Xd
+[19:26:21] [Async Chat Thread - #28/INFO]: [Not Secure] <MrRattlebone246> oye
+[19:26:24] [Async Chat Thread - #29/INFO]: [Not Secure] <MrRattlebone246> como se llamaba
+[19:26:30] [Async Chat Thread - #28/INFO]: [Not Secure] <MrRattlebone246> la bola del dragon?
+[19:26:41] [Async Chat Thread - #29/INFO]: [Not Secure] <SoyEmilio> deja veo
+[19:26:53] [Async Chat Thread - #28/INFO]: [Not Secure] <SoyEmilio> dragon breath
+[19:27:04] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:dragon_fireball
+[19:27:04] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Dragon Fireball]
+[19:27:12] [Server thread/INFO]: MrRattlebone246 issued server command: /tick unfreeze
+[19:27:12] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game runs normally]
+[19:27:21] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:dragon_fireball
+[19:27:21] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Dragon Fireball]
+[19:27:24] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:dragon_fireball
+[19:27:24] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Dragon Fireball]
+[19:27:24] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:dragon_fireball
+[19:27:24] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Dragon Fireball]
+[19:27:25] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:dragon_fireball
+[19:27:25] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Dragon Fireball]
+[19:27:25] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:dragon_fireball
+[19:27:25] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Dragon Fireball]
+[19:27:25] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:dragon_fireball
+[19:27:25] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Dragon Fireball]
+[19:27:36] [Async Chat Thread - #29/INFO]: [Not Secure] <MrRattlebone246> y si ponemos bloques de comandos?
+[19:27:44] [Server thread/INFO]: SoyEmilio issued server command: /killall drops world_nether
+[19:27:44] [Async Chat Thread - #28/INFO]: [Not Secure] <MrRattlebone246> que pongan una bola
+[19:27:51] [Async Chat Thread - #29/INFO]: [Not Secure] <MrRattlebone246> cada 20 segundos
+[19:27:59] [Async Chat Thread - #28/INFO]: [Not Secure] <MrRattlebone246> y asi se mantiene
+[19:28:14] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:14] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:14] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:14] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:14] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:14] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:14] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:14] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:15] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:15] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:15] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:15] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:15] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:15] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:15] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:28:31] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival MrRattlebone246
+[19:28:48] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:55] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:55] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:55] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:55] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:55] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:55] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:55] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:55] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:28:56] [Server thread/INFO]: [Essentials] CommandBlock at 1,44,-1 issued server command: /give @p zombie_spawn_egg{EntityTag:{id:"minecraft:zombie",CustomName:"\"ZOMBIENGAYS\"",CustomNameVisible:1,ActiveEffects:[{Id:5,Amplifier:9,Duration:2147483647}]}}
+[19:29:09] [Async Chat Thread - #30/INFO]: [Not Secure] <SoyEmilio> no se va
+[19:29:10] [Async Chat Thread - #31/INFO]: [Not Secure] <SoyEmilio> XD
+[19:29:23] [Async Chat Thread - #30/INFO]: [Not Secure] <SoyEmilio> ahi
+[19:29:38] [Async Chat Thread - #31/INFO]: [Not Secure] <MrRattlebone246> xd
+[19:29:39] [Async Chat Thread - #30/INFO]: [Not Secure] <MrRattlebone246> osea
+[19:29:41] [Async Chat Thread - #31/INFO]: [Not Secure] <MrRattlebone246> me refiero
+[19:29:42] [Async Chat Thread - #30/INFO]: [Not Secure] <MrRattlebone246> ven
+[19:29:44] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:30:03] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tn
+[19:30:04] [Server thread/INFO]: SoyEmilio issued server command: /summon minecraft:fireball ~ ~ ~ {ExplosionPower:100,direction:[0.0,0.0,0.0]}
+[19:30:04] [Server thread/INFO]: [[ADMIN] SoyEmilio: Summoned new Fireball]
+[19:30:06] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:06] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:07] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:07] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:07] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:07] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:07] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:07] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:07] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:07] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:08] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:08] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:08] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:08] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:08] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:08] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:08] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:08] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:08] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:08] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:08] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:08] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:09] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:09] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:09] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:09] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:10] [Async Chat Thread - #30/INFO]: [Not Secure] <MrRattlebone246> ven
+[19:30:13] [Async Chat Thread - #31/INFO]: [Not Secure] <SoyEmilio> ven
+[19:30:13] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:13] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:14] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:14] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:14] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:14] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:14] [Server thread/INFO]: MrRattlebone246 issued server command: /summon tnt
+[19:30:14] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Primed TNT]
+[19:30:17] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[19:30:27] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival MrRattlebone246
+[19:30:34] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival MrRattlebone246
+[19:30:34] [Async Chat Thread - #30/INFO]: [Not Secure] <MrRattlebone246> a pero no se lanza?
+[19:30:42] [Async Chat Thread - #31/INFO]: [Not Secure] <SoyEmilio> ay
+[19:30:42] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:30:48] [Async Chat Thread - #30/INFO]: [Not Secure] <MrRattlebone246> ...
+[19:30:59] [Async Chat Thread - #30/INFO]: [Not Secure] <MrRattlebone246> mataste al dragon ctmre :Cry:
+[19:31:12] [Async Chat Thread - #31/INFO]: [Not Secure] <MrRattlebone246> como se supone que lo restauraremos ahora xd
+[19:31:21] [Server thread/INFO]: SoyEmilio issued server command: /co rollback user: SoyEmilio time: 1m action:-block r: 25
+[19:31:29] [Server thread/INFO]: SoyEmilio issued server command: /co i
+[19:31:31] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:31:48] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:31:53] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:31:55] [Server thread/INFO]: SoyEmilio issued server command: /co rollback user:#explosion time: 3m action:-block r: 50
+[19:31:56] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:32:01] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:32:03] [Server thread/INFO]: SoyEmilio issued server command: /co rollback user:#explosion time: 3m action:-block r: 50
+[19:32:03] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:32:06] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:32:11] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:32:13] [Server thread/INFO]: SoyEmilio issued server command: /co rollback user:#explosion time: 3m action:-block r: 100
+[19:32:16] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:32:24] [Server thread/INFO]: SoyEmilio issued server command: /co rollback user:#explosion time: 3m action:-block r: 100
+[19:32:33] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:32:33] [Server thread/INFO]: SoyEmilio issued server command: /co rollback user:#explosion time: 1d action:-block r: 100
+[19:32:35] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:33:01] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> ya esta
+[19:33:05] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246
+[19:33:13] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> xDDDDDDDDD
+[19:33:16] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> q pasa
+[19:33:17] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> XDç
+[19:33:24] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> nada nada xd
+[19:33:31] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> el dragon se estaba muriendo
+[19:33:36] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> el resto lo hizo el dragon
+[19:33:37] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> xd
+[19:33:54] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> casi se muere el dragon de un golpe
+[19:34:16] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246
+[19:34:25] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> hay e restaurar los endercrystals
+[19:34:41] [Server thread/INFO]: SoyEmilio issued server command: /co i
+[19:34:43] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> ptmre ahora como hago
+[19:34:50] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> el dragon se bugeo
+[19:34:56] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> y el tic'
+[19:35:12] [Server thread/INFO]: SoyEmilio issued server command: /tick unfreeze
+[19:35:12] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game runs normally]
+[19:35:17] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> me refiero a que se bugeo
+[19:35:20] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> en una fase
+[19:35:25] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> en la que se tenia qu emorir en un golpe
+[19:35:26] [Server thread/INFO]: SoyEmilio issued server command: /tick unfreeze
+[19:35:26] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game runs normally]
+[19:35:27] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> pero
+[19:35:31] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> como se recargo de vida
+[19:35:31] [Server thread/INFO]: SoyEmilio issued server command: /tick unfreeze
+[19:35:31] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game runs normally]
+[19:35:33] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> entonces no se
+[19:35:36] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> no quiero matarlo
+[19:35:44] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> porque tengo mieod de que cuanod se genere otrod ragon
+[19:35:46] [Server thread/INFO]: SoyEmilio issued server command: /tick freeze
+[19:35:46] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game is frozen]
+[19:35:47] [Server thread/INFO]: SoyEmilio issued server command: /tick unfreeze
+[19:35:47] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game runs normally]
+[19:35:48] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> no sea el modificado
+[19:35:54] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> y si lo regenero
+[19:35:58] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> reinicio sv?
+[19:35:59] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> se regeneran las torres tambien
+[19:36:02] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> me entinedes?
+[19:36:24] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> sabes que
+[19:36:25] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> que xuxa
+[19:36:31] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> que se muera el hdp del sragon
+[19:36:34] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> un sumon
+[19:36:35] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> XD
+[19:36:44] [Server thread/INFO]: MrRattlebone246 issued server command: /killall all world_the_end
+[19:36:48] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> mejor reiniciamos aver
+[19:36:50] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> ay no
+[19:36:55] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> la barra de vida sigue
+[19:37:03] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:ender_dragon
+[19:37:03] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Ender Dragon]
+[19:37:15] [Server thread/INFO]: SoyEmilio issued server command: /gamemode su
+[19:37:16] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> nose muere el hdp
+[19:37:16] [Server thread/INFO]: SoyEmilio issued server command: /gamemode su
+[19:37:18] [Server thread/INFO]: SoyEmilio issued server command: /gamemode su
+[19:37:18] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> mueve
+[19:37:19] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival
+[19:37:33] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> ahi esta
+[19:37:34] [Server thread/INFO]: [ADMIN] SoyEmilio was slain by Ender Dragon
+[19:37:38] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> xDDDDDD
+[19:37:45] [Server thread/INFO]: SoyEmilio issued server command: /tp m
+[19:37:46] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> el madito estaba esperanod que te pongas en survival xd
+[19:37:51] [Server thread/INFO]: MrRattlebone246 issued server command: /tps
+[19:37:55] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> solo sube y baja
+[19:37:57] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> XD
+[19:38:11] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> sube y baja y yo te lo rozo
+[19:38:22] [Server thread/INFO]: SoyEmilio issued server command: /gamemode creative
+[19:38:26] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> ptmre
+[19:38:29] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> se bugeo
+[19:38:56] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> quieres generarlo naturalmente?
+[19:38:58] [Server thread/INFO]: SoyEmilio issued server command: /tp #enderdragon
+[19:39:04] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> corremos el ciesgo que se borren las torres
+[19:39:09] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> intentamos sumon?
+[19:39:32] [Server thread/INFO]: SoyEmilio issued server command: /datapack list
+[19:39:32] [Server thread/WARN]: Missing metadata in pack file/sirlogin-e1220.zip
+[19:39:32] [Server thread/WARN]: Missing metadata in pack file/sirlogin-e1220.zip
+[19:39:59] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> dime
+[19:40:07] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> matamos este y ponemos sumon aver
+[19:40:15] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> o reiniciamos sv aver
+[19:40:15] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> aver
+[19:40:25] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> primeor el summon
+[19:40:37] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> XD
+[19:40:43] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> xDDDDDDDDD
+[19:40:53] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> solo necesitaba reflexionar con un buen espadazo
+[19:40:54] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> XD
+[19:40:56] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> xDDDDDDDDDDDDD
+[19:40:58] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> literlamente
+[19:41:01] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> como televisor viejo
+[19:41:18] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> de un putazo lo arreglo
+[19:41:19] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> asda
+[19:41:19] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> emilio
+[19:41:21] [Async Chat Thread - #32/INFO]: [Not Secure] <SoyEmilio> dime
+[19:41:22] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> hayq eu poner los
+[19:41:24] [Async Chat Thread - #33/INFO]: [Not Secure] <MrRattlebone246> cristales
+[19:41:27] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> end crystals
+[19:41:30] [Async Chat Thread - #33/INFO]: [Not Secure] <SoyEmilio> como=
+[19:41:32] [Async Chat Thread - #32/INFO]: [Not Secure] <MrRattlebone246> no se por que se borran
+[19:41:36] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:41:38] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:41:55] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[19:41:57] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[19:43:20] [Async Chat Thread - #34/INFO]: [Not Secure] <SoyEmilio> es el dragon que les da ventaja para que no se mueran
+[19:43:46] [Async Chat Thread - #35/INFO]: [Not Secure] <MrRattlebone246> xDDDDD
+[19:44:14] [Async Chat Thread - #34/INFO]: [Not Secure] <MrRattlebone246> 0 54 0
+[19:44:31] [Server thread/INFO]: MrRattlebone246 issued server command: /give MrRattlebone246 command_block
+[19:45:17] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:45:22] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:45:25] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:45:47] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:46:00] [Async Chat Thread - #36/INFO]: [Not Secure] <MrRattlebone246> tengo una idea
+[19:46:03] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:46:10] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:46:59] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:47:42] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:48:15] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:pig
+[19:48:15] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Pig]
+[19:48:18] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:48:21] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:48:25] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:48:27] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:48:27] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:48:28] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:50:01] [Server thread/INFO]: [@: Summoned new Dragon Fireball]
+[19:50:53] [Server thread/INFO]: MrRattlebone246 issued server command: /tick freeze
+[19:50:53] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game is frozen]
+[19:54:50] [Server thread/INFO]: MrRattlebone246 issued server command: /tick unfreeze
+[19:54:50] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game runs normally]
+[19:54:55] [Server thread/INFO]: MrRattlebone246 issued server command: /tick freeze
+[19:54:55] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game is frozen]
+[19:55:21] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246
+[19:55:22] [Async Chat Thread - #38/INFO]: [Not Secure] <SoyEmilio> a
+[19:55:23] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> emilio estas ahi?Xd
+[19:55:24] [Async Chat Thread - #38/INFO]: [Not Secure] <SoyEmilio> vovli
+[19:55:27] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> volvio :D
+[19:55:49] [Async Chat Thread - #38/INFO]: [Not Secure] <MrRattlebone246> me rindo
+[19:55:51] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> pondre lava
+[19:55:52] [Async Chat Thread - #38/INFO]: [Not Secure] <SoyEmilio> dq
+[19:55:53] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> mucha wbda xd
+[19:56:08] [Async Chat Thread - #38/INFO]: [Not Secure] <MrRattlebone246> pero ese draong de mrda
+[19:56:11] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> me tiene hasta el culo
+[19:56:15] [Async Chat Thread - #38/INFO]: [Not Secure] <MrRattlebone246> no para de tragar
+[19:56:39] [Async Chat Thread - #39/INFO]: [Not Secure] <SoyEmilio> intento un rollback?
+[19:56:46] [Server thread/INFO]: MrRattlebone246 issued server command: /roolback?
+[19:56:51] [Async Chat Thread - #38/INFO]: [Not Secure] <MrRattlebone246> rollback?
+[19:57:04] [Async Chat Thread - #39/INFO]: [Not Secure] <SoyEmilio> es el comando para restaurar bloques
+[19:57:12] [Async Chat Thread - #38/INFO]: [Not Secure] <SoyEmilio> es /co rollback
+[19:57:27] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> pero lo restauraria las piedas del end y quitaria la decoracon que te dije que hicieras?
+[19:57:28] [Server thread/INFO]: SoyEmilio issued server command: /co i
+[19:58:04] [Async Chat Thread - #38/INFO]: [Not Secure] <SoyEmilio> solo lo del dragon
+[19:58:11] [Async Chat Thread - #39/INFO]: [Not Secure] <SoyEmilio> si no queda pueso usar redo
+[19:58:22] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> mmm
+[19:58:23] [Async Chat Thread - #38/INFO]: [Not Secure] <MrRattlebone246> yap
+[19:58:24] [Async Chat Thread - #38/INFO]: [Not Secure] <SoyEmilio> es el comando para desahacer el rollback
+[19:58:43] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> y cual es el comando para desasaer el desasedor del rollback?xdddd
+[19:59:16] [Server thread/INFO]: SoyEmilio issued server command: /co rollback u:#enderdragon action: -block time: 9d radius:#world_the_end
+[19:59:20] [Async Chat Thread - #38/INFO]: [Not Secure] <SoyEmilio> a
+[19:59:28] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> ...
+[19:59:33] [Server thread/INFO]: SoyEmilio issued server command: /redo
+[19:59:44] [Server thread/INFO]: SoyEmilio issued server command: /co undo
+[20:00:02] [Async Chat Thread - #38/INFO]: [Not Secure] <MrRattlebone246> mira como se a tragado todo esa mrda de dragon
+[20:00:26] [Server thread/INFO]: SoyEmilio issued server command: /co rollback u:SoyEmilio time: 2.30h radius:50 action:-block
+[20:00:32] [Server thread/INFO]: SoyEmilio issued server command: /co undo
+[20:00:51] [Async Chat Thread - #39/INFO]: [Not Secure] <SoyEmilio> em
+[20:00:53] [Server thread/INFO]: SoyEmilio issued server command: /co undo
+[20:00:57] [Server thread/INFO]: SoyEmilio issued server command: /co undo
+[20:00:59] [Server thread/INFO]: SoyEmilio issued server command: /co undo
+[20:01:02] [Server thread/INFO]: SoyEmilio issued server command: /co undo
+[20:01:02] [Async Chat Thread - #38/INFO]: [Not Secure] <MrRattlebone246> aaaaaaaaaaaaaa
+[20:01:10] [Async Chat Thread - #39/INFO]: [Not Secure] <MrRattlebone246> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[20:01:28] [Async Chat Thread - #38/INFO]: [Not Secure] <MrRattlebone246> mi bola gigante xd
+[20:01:32] [Server thread/INFO]: SoyEmilio issued server command: /co rollback time: 2m
+[20:01:42] [Server thread/INFO]: SoyEmilio issued server command: /co rollback time: 2m radius:#world_the_end
+[20:01:47] [Server thread/INFO]: SoyEmilio issued server command: /co rollback time: 2m radius:#world_the_end user: SoyEmilio
+[20:01:54] [Server thread/INFO]: SoyEmilio issued server command: /co rollback time: 4m radius:#world_the_end user: SoyEmilio
+[20:02:04] [Server thread/INFO]: SoyEmilio issued server command: /co i
+[20:02:08] [Server thread/INFO]: SoyEmilio issued server command: /co i
+[20:02:46] [Server thread/INFO]: SoyEmilio issued server command: /co rollback time: 2h radius:#world_the_end user: SoyEmilio
+[20:03:03] [Server thread/INFO]: SoyEmilio issued server command: /co undo
+[20:03:14] [Async Chat Thread - #40/INFO]: [Not Secure] <SoyEmilio> ahi ta
+[20:03:24] [Server thread/INFO]: SoyEmilio issued server command: /co i
+[20:10:09] [Async Chat Thread - #42/INFO]: [Not Secure] <MrRattlebone246> que haces?Xd
+[20:10:13] [Server thread/INFO]: MrRattlebone246 issued server command: /tps
+[20:10:50] [Server thread/INFO]: SoyEmilio issued server command: /tp m
+[20:10:57] [Async Chat Thread - #43/INFO]: [Not Secure] <SoyEmilio> y ahora?
+[20:11:14] [Server thread/INFO]: MrRattlebone246 issued server command: //brush apply sphere 1 set end_stone
+[20:11:16] [Async Chat Thread - #42/INFO]: [Not Secure] <MrRattlebone246> emmm
+[20:11:33] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[20:13:10] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[20:13:33] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> por dios
+[20:13:34] [Server thread/INFO]: MrRattlebone246 issued server command: //undo
+[20:13:42] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> matt no pongas tantos mobs que colapsa el sv
+[20:13:43] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> XD
+[20:13:55] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> que
+[20:13:58] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> yo no puse eso xd
+[20:14:13] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> a cierto
+[20:14:14] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> emilio
+[20:14:17] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> una cosa mas porfa
+[20:14:25] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> como esta en la superficie
+[20:14:30] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> aqui podrias poenrle obsidiana
+[20:14:34] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> con piedra de end
+[20:14:36] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> porfa
+[20:14:47] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> dpnde
+[20:14:48] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> que sus paredes del crater
+[20:14:49] [Server thread/INFO]: SoyEmilio issued server command: /tp m
+[20:15:23] [Server thread/INFO]: SoyEmilio issued server command: /brush apply sphere set end_stone_bricks,obsidian
+[20:15:31] [Server thread/INFO]: SoyEmilio issued server command: /mask end_stone
+[20:15:40] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> uwu
+[20:15:45] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> xd
+[20:15:55] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> oye
+[20:15:58] [Server thread/INFO]: SoyEmilio issued server command: /brush unbind
+[20:15:59] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> doime
+[20:16:00] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> porque tiene dos bloques asi?Xd
+[20:16:04] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> los pussite tu?Xd
+[20:16:06] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> xd
+[20:16:10] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> xddd
+[20:16:15] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> para cuadno venga el dragon
+[20:16:17] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> si los pusiste xd
+[20:16:18] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> haga mas dañor
+[20:16:29] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> como que mas daño?
+[20:16:41] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> no entendiste
+[20:16:42] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> xd
+[20:16:46] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> aaaaaaaaaaaa
+[20:16:47] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> xDDDDDDDDDDDDDDD
+[20:16:54] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> entonces le ponemos lava?xd
+[20:17:04] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> sep
+[20:17:07] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> yap
+[20:17:15] [Server thread/INFO]: MrRattlebone246 issued server command: /tick unfreeze
+[20:17:15] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game runs normally]
+[20:17:18] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> no creo que mucho lleven pociones contra el fuego en el end
+[20:17:19] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> xd
+[20:17:37] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> xDDDD
+[20:17:41] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> los vamos a kgar xd
+[20:17:46] [Server thread/INFO]: SoyEmilio issued server command: /gamemode spectator
+[20:17:55] [Server thread/INFO]: SoyEmilio issued server command: //pos1
+[20:18:00] [Server thread/INFO]: SoyEmilio issued server command: //pos1
+[20:18:05] [Server thread/INFO]: SoyEmilio issued server command: //pos2
+[20:18:12] [Server thread/INFO]: SoyEmilio issued server command: //replace air lava
+[20:18:22] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> o mas alto?
+[20:18:30] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> mas bien
+[20:18:32] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> mas bajo xd
+[20:18:38] [Server thread/INFO]: SoyEmilio issued server command: //undo
+[20:18:44] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> como a esta altura
+[20:18:51] [Server thread/INFO]: SoyEmilio issued server command: //replace lava aitr
+[20:18:53] [Server thread/INFO]: SoyEmilio issued server command: //replace lava ait
+[20:18:55] [Server thread/INFO]: SoyEmilio issued server command: //replace lava air
+[20:19:02] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> cual altura
+[20:19:14] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> la de la redtone
+[20:19:16] [Server thread/INFO]: SoyEmilio issued server command: //pos2
+[20:19:20] [Server thread/INFO]: SoyEmilio issued server command: //pos2
+[20:19:27] [Server thread/INFO]: SoyEmilio issued server command: //pos1
+[20:19:33] [Server thread/INFO]: MrRattlebone246 issued server command: /tp SoyEmilio
+[20:19:33] [Server thread/INFO]: SoyEmilio issued server command: //pos2
+[20:19:35] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[20:19:43] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> pero borra tu lava tonce
+[20:19:46] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> ta mas arriba
+[20:19:50] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> o asi noms
+[20:19:51] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[20:19:55] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> esta redtone
+[20:20:17] [Server thread/INFO]: SoyEmilio issued server command: //replace air lava_cauldron
+[20:20:23] [Server thread/INFO]: SoyEmilio issued server command: //undo
+[20:20:27] [Server thread/INFO]: SoyEmilio issued server command: //replace air lava
+[20:20:36] [Server thread/INFO]: SoyEmilio issued server command: /gamemode creative
+[20:20:54] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> aunque
+[20:21:00] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> han de traer agua :V
+[20:21:02] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> al end
+[20:21:03] [Async Chat Thread - #44/INFO]: [Not Secure] <SoyEmilio> XD
+[20:21:13] [Async Chat Thread - #45/INFO]: [Not Secure] <SoyEmilio> le hechan y fin a la lava
+[20:21:31] [Server thread/INFO]: SoyEmilio issued server command: //desel
+[20:21:34] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[20:21:45] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> xDDDDDDD
+[20:21:49] [Async Chat Thread - #45/INFO]: [Not Secure] <MrRattlebone246> tmre
+[20:21:52] [Async Chat Thread - #44/INFO]: [Not Secure] <MrRattlebone246> eso si nos kgaria
+[20:22:18] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:dragon_fireball
+[20:22:18] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Dragon Fireball]
+[20:22:34] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[20:23:02] [Server thread/INFO]: MrRattlebone246 issued server command: /tick freeze
+[20:23:02] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game is frozen]
+[20:24:30] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.ender_dragon.death player MrRattlebone246
+[20:24:30] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.ender_dragon.death to [CREADOR] MrRattlebone246]
+[20:24:41] [Async Chat Thread - #46/INFO]: [Not Secure] <SoyEmilio> xd
+[20:24:41] [Async Chat Thread - #47/INFO]: [Not Secure] <MrRattlebone246> ._.
+[20:24:44] [Async Chat Thread - #46/INFO]: [Not Secure] <MrRattlebone246> dsgraciado
+[20:24:46] [Async Chat Thread - #47/INFO]: [Not Secure] <MrRattlebone246> me asustas xd
+[20:24:54] [Async Chat Thread - #46/INFO]: [Not Secure] <MrRattlebone246> pense que te habias cogido al dragon xd
+[20:25:15] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death ambient
+[20:25:19] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death ambient @a
+[20:25:19] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:25] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death ambient @a
+[20:25:25] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:27] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode survival
+[20:25:32] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death ambient @a
+[20:25:32] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:43] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death player @a
+[20:25:43] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:44] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death player @a
+[20:25:44] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:45] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death player @a
+[20:25:45] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:45] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death player @a
+[20:25:45] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:46] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death player @a
+[20:25:46] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:46] [Server thread/INFO]: SoyEmilio issued server command: /playsound minecraft:entity.cat.death player @a
+[20:25:46] [Server thread/INFO]: [[ADMIN] SoyEmilio: Played sound minecraft:entity.cat.death to 2 players]
+[20:25:51] [Async Chat Thread - #47/INFO]: [Not Secure] <MrRattlebone246> no suena nada por cierto xd
+[20:26:01] [Server thread/INFO]: MrRattlebone246 issued server command: /tps
+[20:26:17] [Server thread/INFO]: MrRattlebone246 issued server command: /tick freeze
+[20:26:17] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game is frozen]
+[20:26:20] [Server thread/INFO]: MrRattlebone246 issued server command: /tick unfreeze
+[20:26:20] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game runs normally]
+[20:26:28] [Server thread/INFO]: MrRattlebone246 issued server command: /tick freeze
+[20:26:28] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game is frozen]
+[20:26:38] [Server thread/INFO]: MrRattlebone246 issued server command: /tick unfreeze
+[20:26:38] [Server thread/INFO]: [[CREADOR] MrRattlebone246: The game runs normally]
+[20:26:39] [Async Chat Thread - #46/INFO]: [Not Secure] <SoyEmilio> y ahora
+[20:26:53] [Async Chat Thread - #47/INFO]: [Not Secure] <SoyEmilio> como ahcer que se vean los tags
+[20:26:55] [Async Chat Thread - #46/INFO]: [Not Secure] <SoyEmilio> en chat
+[20:26:57] [Async Chat Thread - #47/INFO]: [Not Secure] <SoyEmilio> asdas
+[20:27:02] [Async Chat Thread - #46/INFO]: [Not Secure] <MrRattlebone246> xdddd
+[20:27:33] [Async Chat Thread - #47/INFO]: [Not Secure] <MrRattlebone246> ya vuelvo
+[20:27:35] [Async Chat Thread - #46/INFO]: [Not Secure] <MrRattlebone246> voy al baño
+[20:27:41] [Async Chat Thread - #47/INFO]: [Not Secure] <MrRattlebone246> cualqu cosa me escribes a wsp
+[20:27:43] [Async Chat Thread - #46/INFO]: [Not Secure] <SoyEmilio> el dragon ya rompio los cristales denuevo
+[20:27:44] [Async Chat Thread - #47/INFO]: [Not Secure] <SoyEmilio> XD
+[20:27:52] [Async Chat Thread - #46/INFO]: [Not Secure] <SoyEmilio> pero de glass
+[20:27:55] [Async Chat Thread - #47/INFO]: [Not Secure] <SoyEmilio> no los ender
+[20:30:47] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:47] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:48] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:49] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:50] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:50] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:30:50] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:25] [Server thread/INFO]: SoyEmilio issued server command: /tick freeze
+[20:31:25] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game is frozen]
+[20:31:34] [Server thread/INFO]: SoyEmilio issued server command: /tick unfreeze
+[20:31:34] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game runs normally]
+[20:31:34] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:35] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:35] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:35] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:35] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:35] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:35] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:35] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:36] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:36] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:36] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:36] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:36] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:36] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:36] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:37] [Server thread/INFO]: [@: Played sound minecraft:entity.ender_dragon.death to 2 players]
+[20:31:39] [Server thread/INFO]: SoyEmilio issued server command: /tick freeze
+[20:31:39] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game is frozen]
+[20:33:25] [Server thread/INFO]: SoyEmilio issued server command: /tick unfreeze
+[20:33:25] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game runs normally]
+[20:33:25] [Server thread/INFO]: [@: Played sound minecraft:music_disc.pigstep to [ADMIN] SoyEmilio]
+[20:33:57] [Server thread/INFO]: SoyEmilio issued server command: /tp m
+[20:34:19] [Server thread/INFO]: SoyEmilio issued server command: /tick unfreeze
+[20:34:19] [Server thread/INFO]: [[ADMIN] SoyEmilio: The game runs normally]
+[20:35:00] [Server thread/INFO]: SoyEmilio issued server command: /enchantment alldamage 5
+[20:35:13] [Server thread/INFO]: SoyEmilio issued server command: /enchantment protection 4
+[20:35:15] [Server thread/INFO]: SoyEmilio issued server command: /enchantment protection 4
+[20:35:16] [Server thread/INFO]: SoyEmilio issued server command: /enchantment protection 4
+[20:35:17] [Server thread/INFO]: SoyEmilio issued server command: /enchantment protection 4
+[20:35:22] [Server thread/INFO]: SoyEmilio issued server command: /enchantment mending
+[20:35:23] [Server thread/INFO]: SoyEmilio issued server command: /enchantment mending
+[20:35:24] [Server thread/INFO]: SoyEmilio issued server command: /enchantment mending
+[20:35:25] [Server thread/INFO]: SoyEmilio issued server command: /enchantment mending
+[20:35:31] [Server thread/INFO]: SoyEmilio issued server command: /enchantment unbreaking 3
+[20:35:33] [Server thread/INFO]: SoyEmilio issued server command: /enchantment unbreaking 3
+[20:35:33] [Server thread/INFO]: SoyEmilio issued server command: /enchantment unbreaking 3
+[20:35:34] [Server thread/INFO]: SoyEmilio issued server command: /enchantment unbreaking 3
+[20:36:02] [Server thread/INFO]: SoyEmilio issued server command: /enchantment unbreaking 3
+[20:36:03] [Server thread/INFO]: SoyEmilio issued server command: /enchantment protection 4
+[20:36:04] [Server thread/INFO]: SoyEmilio issued server command: /enchantment mending
+[20:36:15] [Server thread/INFO]: SoyEmilio issued server command: /enchantment unbreaking 3
+[20:36:19] [Server thread/INFO]: SoyEmilio issued server command: /enchantment mending
+[20:36:23] [Server thread/INFO]: SoyEmilio issued server command: /enchantment looting 3
+[20:36:29] [Server thread/INFO]: SoyEmilio issued server command: /enchantment sharpness 5
+[20:37:01] [Server thread/INFO]: SoyEmilio issued server command: /enchantment unbreaking 3
+[20:37:04] [Server thread/INFO]: SoyEmilio issued server command: /enchantment mending
+[20:37:12] [Server thread/INFO]: SoyEmilio issued server command: /enchantment fortune 3
+[20:37:15] [Server thread/INFO]: SoyEmilio issued server command: /enchantment efficiency 5
+[20:37:53] [Server thread/INFO]: [CREADOR] MrRattlebone246 didn't want to live in the same world as Ender Dragon
+[20:38:15] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival
+[20:40:29] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[20:40:34] [Server thread/INFO]: SoyEmilio issued server command: /gamemode creative MrRattlebone246
+[20:40:39] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[20:40:45] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[20:40:50] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[20:40:54] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[20:40:56] [Server thread/INFO]: SoyEmilio issued server command: /tps
+[20:40:58] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[20:41:02] [Server thread/INFO]: SoyEmilio issued server command: /gamemode creative MrRattlebone246
+[20:43:21] [Server thread/INFO]: [ADMIN] SoyEmilio was doomed to fall
+[20:43:28] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival
+[20:43:30] [Server thread/INFO]: SoyEmilio issued server command: /gamemode creative
+[20:43:36] [Server thread/INFO]: SoyEmilio issued server command: /repair
+[20:43:41] [Server thread/INFO]: SoyEmilio issued server command: /repair all
+[20:44:03] [Server thread/INFO]: SoyEmilio issued server command: /tag SoyEmilio add asd
+[20:44:03] [Server thread/INFO]: [[ADMIN] SoyEmilio: Added tag 'asd' to [ADMIN] SoyEmilio]
+[20:44:05] [Async Chat Thread - #48/INFO]: [Not Secure] <SoyEmilio> asd
+[20:44:07] [Async Chat Thread - #49/INFO]: [Not Secure] <SoyEmilio> as
+[20:44:13] [Server thread/INFO]: SoyEmilio issued server command: /tag SoyEmilio list
+[20:44:20] [Server thread/INFO]: SoyEmilio issued server command: /tag SoyEmilio remove asd
+[20:44:20] [Server thread/INFO]: [[ADMIN] SoyEmilio: Removed tag 'asd' from [ADMIN] SoyEmilio]
+[20:44:41] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246
+[20:44:44] [Server thread/INFO]: [ADMIN] SoyEmilio fell out of the world
+[20:44:48] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246
+[20:44:59] [Server thread/INFO]: SoyEmilio issued server command: /tp MrRattlebone246 SoyEmilio
+[20:45:06] [Server thread/INFO]: SoyEmilio issued server command: /gamemode creative
+[20:45:16] [Server thread/INFO]: SoyEmilio issued server command: /thor SoyEmilio 5
+[20:45:18] [Server thread/INFO]: SoyEmilio issued server command: /thor SoyEmilio 5
+[20:45:19] [Server thread/INFO]: SoyEmilio issued server command: /thor SoyEmilio 5
+[20:45:20] [Server thread/INFO]: SoyEmilio issued server command: /thor SoyEmilio 5
+[20:45:27] [Server thread/INFO]: SoyEmilio issued server command: /thor
+[20:45:30] [Server thread/INFO]: SoyEmilio issued server command: /thor SoyEmilio 5
+[20:45:32] [Server thread/INFO]: SoyEmilio issued server command: /thor SoyEmilio 1
+[20:45:35] [Server thread/INFO]: SoyEmilio issued server command: /thor SoyEmilio
+[20:55:16] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival
+[20:55:36] [Server thread/INFO]: [ADMIN] SoyEmilio was slain by Ender Dragon
+[20:55:43] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival
+[20:56:38] [Server thread/INFO]: [ADMIN] SoyEmilio was slain by Zombie
+[20:56:45] [Server thread/INFO]: SoyEmilio issued server command: /gamemode survival
+[20:56:49] [Server thread/INFO]: SoyEmilio issued server command: /gamemode creative
+[20:57:30] [Server thread/INFO]: MrRattlebone246 issued server command: /tp SoyEmilio
+[20:58:52] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[20:58:55] [Async Chat Thread - #50/INFO]: [Not Secure] <SoyEmilio> a
+[20:58:57] [Async Chat Thread - #51/INFO]: [Not Secure] <MrRattlebone246> xd
+[20:59:14] [Async Chat Thread - #50/INFO]: [Not Secure] <MrRattlebone246> xd
+[20:59:22] [Async Chat Thread - #51/INFO]: [Not Secure] <MrRattlebone246> creo
+[20:59:31] [Async Chat Thread - #50/INFO]: [Not Secure] <MrRattlebone246> que debemos ponerle mas bebidas xd
+[20:59:38] [Async Chat Thread - #51/INFO]: [Not Secure] <SoyEmilio> sipe
+[20:59:42] [Async Chat Thread - #50/INFO]: [Not Secure] <MrRattlebone246> podemos vendrle bebidas de suerte
+[20:59:46] [Async Chat Thread - #51/INFO]: [Not Secure] <SoyEmilio> y droga
+[20:59:54] [Async Chat Thread - #50/INFO]: [Not Secure] <MrRattlebone246> tamien xd
+[21:00:48] [Async Chat Thread - #51/INFO]: [Not Secure] <MrRattlebone246> hay que poner mesas xd
+[21:01:50] [Async Chat Thread - #52/INFO]: [Not Secure] <MrRattlebone246> justo eso estaba pensando xd
+[21:01:52] [Async Chat Thread - #53/INFO]: [Not Secure] <MrRattlebone246> pero
+[21:01:55] [Async Chat Thread - #53/INFO]: [Not Secure] <MrRattlebone246> aunque si
+[21:01:56] [Async Chat Thread - #52/INFO]: [Not Secure] <MrRattlebone246> esta bien
+[21:01:57] [Async Chat Thread - #53/INFO]: [Not Secure] <MrRattlebone246> nose
+[21:02:00] [Async Chat Thread - #52/INFO]: [Not Secure] <MrRattlebone246> las sillas como serian
+[21:02:31] [Server thread/INFO]: MrRattlebone246 issued server command: /sit
+[21:02:40] [Async Chat Thread - #53/INFO]: [Not Secure] <MrRattlebone246> tenemos el comando de sentarse?
+[21:03:09] [Server thread/INFO]: MrRattlebone246 issued server command: /tps
+[21:03:09] [Async Chat Thread - #52/INFO]: [Not Secure] <SoyEmilio> creo q no
+[21:03:14] [Server thread/INFO]: MrRattlebone246 issued server command: /killall all world
+[21:03:17] [Async Chat Thread - #53/INFO]: [Not Secure] <MrRattlebone246> xd
+[21:03:17] [Async Chat Thread - #52/INFO]: [Not Secure] <SoyEmilio> seria un plugin para sentarse
+[21:03:23] [Async Chat Thread - #53/INFO]: [Not Secure] <MrRattlebone246> mmm si
+[21:03:25] [Async Chat Thread - #52/INFO]: [Not Secure] <MrRattlebone246> creo que si
+[21:04:19] [Async Chat Thread - #53/INFO]: [Not Secure] <SoyEmilio> busco uno para ponerlo?
+[21:05:56] [Async Chat Thread - #54/INFO]: [Not Secure] <SoyEmilio> esta hasta la 1.20.1
+[21:06:00] [Async Chat Thread - #55/INFO]: [Not Secure] <SoyEmilio> soportara?
+[21:06:52] [Server thread/INFO]: SoyEmilio lost connection: Timed out
+[21:06:52] [Server thread/INFO]: [ADMIN] SoyEmilio left the game
+[21:12:01] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:12:20] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:15:11] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:15:12] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:15:54] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:16:02] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:16:19] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:16:20] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:16:36] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:16:55] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:17:16] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:17:16] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:17:49] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:17:49] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:20:34] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:20:34] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:21:08] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:21:08] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:21:30] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:21:30] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:22:00] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:22:00] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:22:31] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:22:31] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:24:24] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:24:30] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:25:03] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:zombie
+[21:25:03] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Zombie]
+[21:25:04] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:zombie
+[21:25:04] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Zombie]
+[21:25:05] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:zombie
+[21:25:05] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Zombie]
+[21:25:05] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:zombie
+[21:25:05] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Zombie]
+[21:25:13] [Server thread/INFO]: MrRattlebone246 issued server command: /time set midnight
+[21:25:15] [Server thread/INFO]: MrRattlebone246 issued server command: /summon minecraft:zombie
+[21:25:15] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Summoned new Zombie]
+[21:25:21] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:25:24] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:25:28] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:25:30] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode survival
+[21:25:40] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:25:42] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:25:45] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:25:47] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:25:48] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode survival
+[21:26:04] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:26:10] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:26:16] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode survival
+[21:26:24] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:26:43] [Server thread/INFO]: MrRattlebone246 issued server command: /killall all world
+[21:26:46] [Server thread/INFO]: MrRattlebone246 issued server command: /tps
+[21:27:02] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:27:02] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:27:24] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision
+[21:27:24] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:27:45] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:27:49] [Server thread/INFO]: MrRattlebone246 issued server command: /effect give MrRattlebone246 minecraft:night_vision 312
+[21:27:49] [Server thread/INFO]: [[CREADOR] MrRattlebone246: Applied effect Night Vision to [CREADOR] MrRattlebone246]
+[21:27:51] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:27:54] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:27:55] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:29:18] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:29:20] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:29:58] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode survival
+[21:29:59] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:30:01] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:30:02] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode survival
+[21:30:12] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:30:36] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:30:39] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:30:43] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:30:55] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:31:17] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:31:19] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative
+[21:32:09] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode spectator
+[21:32:16] [Server thread/INFO]: MrRattlebone246 issued server command: /gamemode creative

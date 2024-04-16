@@ -1,0 +1,101 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3700
+'1':
+  uniqueId: 0c0b6b75-327c-4448-8c6d-b8a22764b993
+  world: world
+  x: -6
+  y: 155
+  z: -771
+  yaw: 290.84402
+  type: admin
+  name: Bartender
+  object:
+    type: villager
+    baby: false
+    profession: CLERIC
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: '{"text":"","extra":[{"text":"Awa","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":true}]}'
+          lore:
+          - '{"text":"","extra":["Una agua refrescante :D"]}'
+          potion-type: minecraft:water
+          custom-color:
+            ==: Color
+            ALPHA: 255
+            RED: 38
+            BLUE: 255
+            GREEN: 147
+          custom-effects:
+          - ==: PotionEffect
+            effect: minecraft:saturation
+            duration: 1200
+            amplifier: 1
+            ambient: true
+            has-particles: true
+            has-icon: true
+          - ==: PotionEffect
+            effect: minecraft:regeneration
+            duration: 200
+            amplifier: 0
+            ambient: true
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 4
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: '{"text":"","extra":[{"text":"Viagra","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          lore:
+          - '{"text":"","extra":["Y si nos pasamos un poco de copas..?"]}'
+          ItemFlags:
+          - HIDE_ATTRIBUTES
+          potion-type: minecraft:strong_strength
+          custom-color:
+            ==: Color
+            ALPHA: 255
+            RED: 255
+            BLUE: 38
+            GREEN: 38
+          custom-effects:
+          - ==: PotionEffect
+            effect: minecraft:luck
+            duration: 2400
+            amplifier: 1
+            ambient: true
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 5
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 59
+  snapshots: []

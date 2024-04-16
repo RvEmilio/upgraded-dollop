@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713213888482
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713215212269
+  login: 1713206265260
+money: '0'
+last-account-name: SoyEmilio
+logoutlocation:
+  world: 5e0a01b5-9847-4c37-970d-471f6ebab764
+  world-name: world
+  x: 2.300000011920929
+  y: 155.0
+  z: -768.8511938388112
+  yaw: 89.90819549560547
+  pitch: 16.54270362854004
+lastlocation:
+  world: 5e0a01b5-9847-4c37-970d-471f6ebab764
+  world-name: world
+  x: 5.5
+  y: 167.05994007988056
+  z: -792.4964359999656
+  yaw: -2.2950000762939453
+  pitch: 5.737499237060547
